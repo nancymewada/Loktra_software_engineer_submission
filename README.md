@@ -1,3 +1,4 @@
 # Loktra_software_engineer_submission
 It conttains problems: 
-Lokatra_Interview_submission 
+  1.Solve Reverse Hash problem.
+  2.Implement a Web Crawler.
